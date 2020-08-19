@@ -6,7 +6,7 @@
       "run": "python HelloWorld.py",
       "input": "1",
       "output": "Hello World!",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
       "points": null
     }
