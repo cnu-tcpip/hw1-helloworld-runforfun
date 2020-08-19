@@ -3,7 +3,7 @@
     {
       "name": "HW1",
       "setup": "",
-      "run": "python",
+      "run": "python HelloWorld.py",
       "input": "1",
       "output": "Hello World!",
       "comparison": "included",
